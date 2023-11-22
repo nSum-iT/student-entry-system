@@ -14,7 +14,6 @@ The Student Entry System is a web-based application developed using Django, desi
 ## Technologies Used
 
 - **Framework:** Django
-- **Database:** PostgreSQL or specify the database used
+- **Database:** SQLite3
 
 
-it clone https://github.com/nSum-iT/student-entry-system.git
